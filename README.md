@@ -1,6 +1,4 @@
-### Olá sou o Imario Almeida 👋🏾
-
-- 🌱 Atualmente estou estudando React, C e C++ para sistemas embarcados e Shell Script
+## Olá sou o Imario Almeida 👋🏾
 <div align="center">
   <a href="https://github.com/imarioa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imarioa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
