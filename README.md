@@ -1,4 +1,6 @@
 ## Olá sou o Imario Almeida 👋🏾
+Atualmente sou graduando em Engenharia de Computação e gosto de estudar diversas tecnologias.
+- 📚 Estou estudando React, Programação para sistemas embarcados em C e C++, Shell Script e Machine Learning
 <div align="center">
   <a href="https://github.com/imarioa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imarioa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
