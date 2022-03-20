@@ -1,6 +1,5 @@
 ## Olá sou o Imario Almeida 👋🏾
 Atualmente sou graduando em Engenharia de Computação e gosto de estudar diversas tecnologias.
-- 📚 Estou estudando React, Programação para sistemas embarcados em C e C++, Shell Script e Machine Learning
 
  
   ##
